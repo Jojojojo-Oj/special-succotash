@@ -113,7 +113,7 @@ A mobile emergency response application built using Flutter that helps users qui
 ### Community
 (Allows people to share there thoughts and experience)
 
-<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/5a0d3a66-fbaa-45ce-be7c-333e738cc19b" />
+<img width="300" src="https://github.com/user-attachments/assets/5a0d3a66-fbaa-45ce-be7c-333e738cc19b" />
 
 
 <img width="300"  src="https://github.com/user-attachments/assets/5a2a702a-ab92-411b-8faf-1bc14ff6bc41" />
