@@ -84,7 +84,7 @@ A mobile emergency response application built using Flutter that helps users qui
 ---
 
 ### UPDATES 
-(My Reports, Displays current status of your incident reports) 
+[My Reports (Display current status of your report), News (Shows local government updates), Community (Allows people to share there thoughts and experience), Announcements (Displays local city announcements)] 
 
 <img width="300"  src="https://github.com/user-attachments/assets/c0f72eeb-1384-443b-b3f9-75fe89670c8e" />
 
@@ -98,6 +98,30 @@ A mobile emergency response application built using Flutter that helps users qui
 <img width="300"  src="https://github.com/user-attachments/assets/e8a32594-1771-449c-9cb3-1e6ef5a04a2a" />
 
 <img width="300"  src="https://github.com/user-attachments/assets/c180b7b6-a0e4-4866-8cbc-b3c178b44db0" />
+
+---
+
+### NEWS
+(User can view current news in the country/local city)
+
+<img width="300"  src="https://github.com/user-attachments/assets/742e31c8-ff7a-4398-9ed1-254d1c61a6a6" />
+
+<img width="300" src="https://github.com/user-attachments/assets/4a853936-ad12-4c32-95ac-98c96d23a1af" />
+
+---
+
+### Community
+(Allows people to share there thoughts and experience)
+
+<img width="300"  src="https://github.com/user-attachments/assets/5a2a702a-ab92-411b-8faf-1bc14ff6bc41" />
+
+<img width="300"  src="https://github.com/user-attachments/assets/359abda4-b826-4186-bff2-e70461e083c3" />
+
+
+
+
+
+
 
 
 
