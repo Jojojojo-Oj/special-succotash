@@ -1,4 +1,4 @@
-# AGAPAY APP
+<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/f680d9a5-4eb4-4d38-ae62-46ee8667c13a" /># AGAPAY APP
 
 A mobile emergency response application built using Flutter that helps users quickly send SOS alerts, share real-time location, and notify designated contacts or organizations during emergencies.
 
@@ -52,7 +52,7 @@ A mobile emergency response application built using Flutter that helps users qui
 
 ### E-go BAG
 
-<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/59790b1c-254c-49c4-a1bd-6fa43a5baefe" />
+<img width="300"  src="https://github.com/user-attachments/assets/59790b1c-254c-49c4-a1bd-6fa43a5baefe" />
 
 ---
 
@@ -70,6 +70,14 @@ A mobile emergency response application built using Flutter that helps users qui
 <img width="300"  src="https://github.com/user-attachments/assets/81a55a26-9977-4691-852f-d6cc914bdbbf" />
 
 <img width="300"  src="https://github.com/user-attachments/assets/e0cff245-31dd-45bc-b866-95a3cfa2532f" />
+
+---
+
+### Weather 
+(Displays weather conditions every 2hours and also in the next 5 days)
+
+<img width="300" src="https://github.com/user-attachments/assets/117d46b5-a97c-4b11-97f5-c664438cb8c3" />
+
 
 
 
