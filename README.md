@@ -28,6 +28,29 @@ A mobile emergency response application built using Flutter that helps users qui
 
 ## Screenshots
 
+
+
+## SOS
+(Users sends distress signal)
+
+<img width="300" src="https://github.com/user-attachments/assets/a5147182-394c-45c6-8ec3-005991e4898e" />
+
+<img width="300" src="https://github.com/user-attachments/assets/4dc1c3c8-5d04-4401-8d8e-4a8190087e9a" />
+
+--- 
+
+## Emergency Mode
+(Allow users to send distress signal even withouth internet or signal, via bluetooth BLE)
+
+<img width="300" src="https://github.com/user-attachments/assets/8adb7fce-06a5-4fc6-b53b-6db77417002d" />
+
+<img width="300" src="https://github.com/user-attachments/assets/732015e9-17e8-447c-b54d-d2c569ac3f16" />
+
+<img width="300"  src="https://github.com/user-attachments/assets/cd76ec06-3e9a-4efe-bbd0-3daf64776213" />
+
+
+
+
 ### Homepage
 (Display current location of the user via google map and also display any incident/disaster near them)
 <img width="300" src="https://github.com/user-attachments/assets/66f466ff-3480-4018-87f8-aed66dc31adb" />
@@ -129,6 +152,15 @@ A mobile emergency response application built using Flutter that helps users qui
 <img width="300" src="https://github.com/user-attachments/assets/116d8b59-b06e-42e9-9873-1d6f1c8f6c64" />
 
 <img width="300"  src="https://github.com/user-attachments/assets/2e19f8fe-7777-4eeb-9156-f5914ad2849d" />
+
+---
+
+## User Profile
+
+(User Informations)
+
+<img width="300" src="https://github.com/user-attachments/assets/0e238835-93ff-496f-9127-fb7b50534326" />
+
 
 
 
