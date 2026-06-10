@@ -1,0 +1,1 @@
+place your custom notification sound files here.\n- Android: add an mp3/ogg/wav file with a lowercase filename and no spaces.\n  example: notify_sound.mp3\n  path: android/app/src/main/res/raw/notify_sound.mp3\n\nDuring development you can uninstall & reinstall the app to apply channel sound changes.\n
