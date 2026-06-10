@@ -1,4 +1,4 @@
-<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/d0dacb5b-d150-4982-8134-fe2fa529a7d2" /><img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/a35456d9-0f18-4755-b857-3d344baa97ce" /># AGAPAY APP
+# AGAPAY APP
 
 A mobile emergency response application built using Flutter that helps users quickly send SOS alerts, share real-time location, and notify designated contacts or organizations during emergencies.
 
