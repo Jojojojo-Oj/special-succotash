@@ -43,3 +43,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Local Firebase config (keep the real file out of source control)
+android/app/google-services.json

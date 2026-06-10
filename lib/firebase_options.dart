@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAhwB5Fi4pQsERToK_2UrgHQ0ZHSAo0Zqs',
+    apiKey: const String.fromEnvironment('FIREBASE_API_KEY_WEB'),
     appId: '1:543856158845:web:3db5102234a240a541e914',
     messagingSenderId: '543856158845',
     projectId: 'agapay-capstone',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAr8gDNWax8ouTekDoq8DFqU0gNOeFaiQQ',
+    apiKey: const String.fromEnvironment('FIREBASE_API_KEY_ANDROID'),
     appId: '1:543856158845:android:79ccbfc7f6c186c241e914',
     messagingSenderId: '543856158845',
     projectId: 'agapay-capstone',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA4DZABfR5D4w3AZl5IUwI3fEIRw3IKvPY',
+    apiKey: const String.fromEnvironment('FIREBASE_API_KEY_IOS'),
     appId: '1:543856158845:ios:06926218d328a76c41e914',
     messagingSenderId: '543856158845',
     projectId: 'agapay-capstone',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA4DZABfR5D4w3AZl5IUwI3fEIRw3IKvPY',
+    apiKey: const String.fromEnvironment('FIREBASE_API_KEY_MACOS'),
     appId: '1:543856158845:ios:06926218d328a76c41e914',
     messagingSenderId: '543856158845',
     projectId: 'agapay-capstone',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAhwB5Fi4pQsERToK_2UrgHQ0ZHSAo0Zqs',
+    apiKey: const String.fromEnvironment('FIREBASE_API_KEY_WINDOWS'),
     appId: '1:543856158845:web:be380d95317803ec41e914',
     messagingSenderId: '543856158845',
     projectId: 'agapay-capstone',
