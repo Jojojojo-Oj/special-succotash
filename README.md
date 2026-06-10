@@ -81,6 +81,31 @@ A mobile emergency response application built using Flutter that helps users qui
 <img width="300" src="https://github.com/user-attachments/assets/117d46b5-a97c-4b11-97f5-c664438cb8c3" />
 
 
+---
+
+### UPDATES 
+(My Reports, Displays current status of your incident reports) 
+
+<img width="300"  src="https://github.com/user-attachments/assets/c0f72eeb-1384-443b-b3f9-75fe89670c8e" />
+
+---
+
+### My Reports
+(Users can communicate rescuer and also track the rescuer location)
+
+<img width="300"  src="https://github.com/user-attachments/assets/9806262b-5320-40c9-a256-83506823c687" />
+
+<img width="300"  src="https://github.com/user-attachments/assets/e8a32594-1771-449c-9cb3-1e6ef5a04a2a" />
+
+<img width="300"  src="https://github.com/user-attachments/assets/c180b7b6-a0e4-4866-8cbc-b3c178b44db0" />
+
+
+
+
+
+
+
+
 
 
 
