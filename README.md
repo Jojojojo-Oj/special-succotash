@@ -46,7 +46,7 @@ A mobile emergency response application built using Flutter that helps users qui
 
 <img width="300" src="https://github.com/user-attachments/assets/732015e9-17e8-447c-b54d-d2c569ac3f16" />
 
-<img width="300"  src="https://github.com/user-attachments/assets/cd76ec06-3e9a-4efe-bbd0-3daf64776213" />
+<img width="300" src="https://github.com/user-attachments/assets/cd76ec06-3e9a-4efe-bbd0-3daf64776213" />
 
 
 
@@ -59,12 +59,15 @@ A mobile emergency response application built using Flutter that helps users qui
 ---
 
 ###  Services Page
+
 (Safety Tips, E-GO Bag, Hotlines, Evacuation, Facilities, Weather)
+
 <img src="https://github.com/user-attachments/assets/4c44beab-64e5-429a-84b9-fdd2641291a8" width="300"/>
 
 ---
 
 ###  Safety Tips Page (Disaster Preparedness Info)
+
 <img src="https://github.com/user-attachments/assets/d05d3c41-e28b-4ca8-bf29-fdb3b264ef69" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/eac9d5c3-fe2a-4073-ae54-950d30fd1456" width="300"/>
