@@ -28,8 +28,10 @@ A mobile emergency response application built using Flutter that helps users qui
 
 ## Screenshots
 
-### Homepage (Google Maps Display)
-<img src="https://github.com/user-attachments/assets/38660088-1e73-45c2-afc6-b15e82e0c30e" width="300"/>
+### Homepage
+(Display current location of the user via google map and also display any incident/disaster near them)
+<img width="300" src="https://github.com/user-attachments/assets/66f466ff-3480-4018-87f8-aed66dc31adb" />
+
 
 ---
 
