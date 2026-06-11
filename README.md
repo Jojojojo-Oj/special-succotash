@@ -12,7 +12,8 @@ A mobile emergency response application built using Flutter that helps users qui
 -  User authentication system  
 -  Cloud database integration for storing user and emergency data  
 -  Faster emergency reporting for response coordination  
--  Weather API 
+-  Weather API
+-  Can Send SOS signal without internet and signal (VIA BLE)
 ---
 
 ##  Tech Stack
@@ -28,7 +29,7 @@ A mobile emergency response application built using Flutter that helps users qui
 
 ## Screenshots
 
-
+---
 
 ## SOS
 (Users sends distress signal)
@@ -63,6 +64,17 @@ A mobile emergency response application built using Flutter that helps users qui
 (Safety Tips, E-GO Bag, Hotlines, Evacuation, Facilities, Weather)
 
 <img src="https://github.com/user-attachments/assets/4c44beab-64e5-429a-84b9-fdd2641291a8" width="300"/>
+
+---
+
+### Notifications
+(Users receives notification news/announcement)
+
+<img width="300" src="https://github.com/user-attachments/assets/70c2cbad-6ce0-4194-bd17-e3618a639d6d" />
+
+<img width="300" src="https://github.com/user-attachments/assets/a0b1c8dd-9c5a-49d2-a4c3-c52fffdc0821" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4d342124-6a86-407c-b197-1dc309389866" />
 
 ---
 
